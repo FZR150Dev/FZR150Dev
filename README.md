@@ -4,7 +4,7 @@
 🏍️ I also document my motorcycle repair projects on Instagram: [@fzr.150](https://www.instagram.com/fzr.150/).  
 
 ## 🚀 Skills & Tools
-- 💻 Programming: C, JavaScript, Python
+- 💻 Programming: JavaScript, Python, C
 - ⚙️ Hardware: STM32, Raspberry Pi, Arduino
 - 🌐 Web Development: Node.js, MySQL, Bootstrap
 - 🛠️ DevOps: Linux (Bash scripting)  
